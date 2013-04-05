@@ -1,0 +1,5 @@
+- track symptoms in db
+- rating triggers
+- free form journaling
+- frequency analysis on journaling
+- graphing symptoms and triggers (simple, 2D)
